@@ -1,4 +1,5 @@
-Investment Calculator
+#Investment Calculator
+
 An Investment Calculator web application built using Angular, TypeScript, HTML, and CSS. This tool allows users to estimate potential returns on their investments by entering details such as the initial investment, interest rate, and time period. The app dynamically calculates and displays the results in real-time, providing a seamless and intuitive user experience.
 
 Features
